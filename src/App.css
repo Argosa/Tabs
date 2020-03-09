@@ -1,6 +1,18 @@
-.App {
-  text-align: center;
+* {
+  margin: 0px;
+  padding: 0px;
 }
+
+.button_main {
+  margin: 0px 0px;
+  padding: 10px;
+  background-color: tomato;
+}
+
+.display {
+  margin: 10px 20px;
+}
+
 
 .App-logo {
   height: 40vmin;
